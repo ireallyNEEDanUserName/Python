@@ -1,0 +1,1 @@
+{"inventario": {}, "Defesa": 1, "Vida": 10, "expTotal": 0, "PosX": 305, "PosY": 333, "Ataque": 5, "level": 0, "LARG": 0, "exp": 0, "LALT": 0}

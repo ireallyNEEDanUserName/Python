@@ -1,0 +1,1 @@
+{"madeiraLV": 0, "inventario": {}, "TVida": 10, "Defesa": 1, "Vida": 10, "Ganhou": 0, "madeiraTotalXP": 0, "pedraTotalXP": 0, "expTotal": 0, "PosX": 305, "PosY": 333, "pedraXP": 0, "LALT": 0, "expProxLV": 0, "pedraLV": 0, "moedas": 0, "Ataque": 5, "level": 0, "madeiraXpProx": 0, "LARG": 0, "exp": 0, "pedraXpProx": 0, "madeiraXP": 0}

@@ -1,0 +1,1 @@
+{"inventario": {"bloco": 67, "madeira": 461, "pedra": 14, "graveto": 80}, "exp": 1650, "TVida": 15, "Defesa": 16, "expProxLVL": 1590, "level": 8, "Ganhou": 7, "Vida": 80, "LARG": 24, "expTotal": 5460, "PosX": 313, "PosY": 339, "LALT": 16, "moedas": 91, "Ataque": 40}

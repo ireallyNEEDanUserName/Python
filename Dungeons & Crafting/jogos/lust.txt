@@ -1,0 +1,1 @@
+{"inventario": {"madeira": 8, "pedra": 1}, "PosX": 453, "level": 2, "Vida": 20, "LARG": 0, "expTotal": 25, "exp": 25, "PosY": 311, "LALT": 16}
