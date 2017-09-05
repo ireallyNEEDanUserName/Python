@@ -1,0 +1,49 @@
+{"andarDrop": 
+	{
+	"1": {
+		"bronze": {
+				"quantidade": 1, "chance": 50
+			}, 
+		"graveto": {
+				"quantidade": 1, "chance": 50
+			}
+	}, 
+	"2": {
+		"bronze": {
+				"quantidade": 2, "chance": 60
+			}, 
+		"ferro": {
+				"quantidade": 1, "chance": 40
+			}
+	},
+	"3": {
+		"prata": {
+				"quantidade": 1, "chance": 15
+			}, 
+		"ouro": {
+				"quantidade": 1, "chance": 15
+			}, 
+		"bronze": {
+				"quantidade": 3, "chance": 40
+			}, 
+		"ferro": {
+				"quantidade": 2, "chance": 30
+			}
+	},
+	"5": {
+		"Espada de Bronze": {
+				"quantidade": 1, "chance": 50
+		}
+	},
+	"7": {
+		"tinturaPreta": {
+				"quantidade": 1, "chance": 40
+		}
+	},
+	"10": {
+		"Espada de Ferro": {
+				"quantidade": 1, "chance": 30
+		}
+	}
+	}
+}

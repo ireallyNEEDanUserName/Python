@@ -1,0 +1,8 @@
+Cada assistente que possuir upa os levels de cada abilidade assim como você, com um bonus de em mining pegar mais pedras por vez, talvez diminuindo o tempo de mining.
+
+Você adquiri pet/assistente via sumoning, comprando, achando nas lutas, eles podem possuir habilidades extras como mais exp ou maior velocidade de mineração etc..., eles funcionam offline.
+
+
+FAZER UMA LISTA DIZENDO O QUE CADA ITEM DO JOGO É, EX: MINERIO / EQUIPAMENTO ETC...
+FAZER UMA ABA DE EQUIPAMENTO ONDE MOSTRA O QUE VOCê POSSUI NO SEU INVENTARIO QUE SE ENQUADRE NESSA CATEGORIA.
+MOSTRAR NESSA ABA O QUE ESTÁ EQUIPADO E O QUE PODE SER EQUIPADO DEPENDENDO DO SEU LEVEL.

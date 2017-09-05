@@ -1,0 +1,6 @@
+{
+"Equipamento": {
+			"Espada": ["Espada de Bronze", "Espada de Ferro", "Espada de Prata", "Espada Preta", "Espada de Ouro", "Espada de Onix", "Espada de Criptonita"], 
+			"Capacete": ["Capacete de Bronze", "Capacete de Ferro", "Capacete Preto", "Capacete de Ouro"]
+			}
+}

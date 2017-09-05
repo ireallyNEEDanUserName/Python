@@ -1,0 +1,41 @@
+{
+"1": "bronze",
+"2": "ferro",
+"3": "prata",
+"4": "ouro",
+"5": "onix",
+"6": "criptonita",
+"barra": {
+	"1": "Barra de Bronze",
+	"2": "Barra de Ferro",
+	"3": "Barra de Prata",
+	"4": "Barra de Ouro",
+	"5": "Barra de Onix",
+	"6": "Barra de Criptonita"
+}, 
+"level": {
+	"1": 1,
+	"2": 5,
+	"3": 7,
+	"4": 12,
+	"5": 20,
+	"6": 30
+},
+"spritesOres": {
+	"1": "oresBarrasSprites\/bronze_ore.png",
+	"2": "oresBarrasSprites\/iron_ore.png",
+	"3": "oresBarrasSprites\/silver_ore.png",
+	"4": "oresBarrasSprites\/gold_ore.png",
+	"5": "oresBarrasSprites\/tin_ore.png",
+	"6": "oresBarrasSprites\/tin_ore.png"
+},
+"barraSprites": {
+	"1": "oresBarrasSprites\/bronze_bar.png",
+	"2": "oresBarrasSprites\/iron_bar.png",
+	"3": "oresBarrasSprites\/silver_bar.png",
+	"4": "oresBarrasSprites\/gold_bar.png",
+	"5": "oresBarrasSprites\/bronze_bar.png",
+	"6": "oresBarrasSprites\/bronze_bar.png",
+	"6": "oresBarrasSprites\/bronze_bar.png"
+}
+}

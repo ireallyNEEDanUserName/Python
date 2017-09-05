@@ -1,0 +1,4 @@
+{
+"graveto": "itensSprites\/graveto.png",
+"tinturaPreta": "itensSprites\/tinturaPreta.png"
+}

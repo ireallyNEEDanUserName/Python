@@ -1,0 +1,17 @@
+{
+"Espada": {
+		"Espada de Bronze": {"Ataque": 5, "LvlNecessario": 1, "Sprite": "equipSprites\/bronze_sword.png"}, 
+		"Espada de Ferro": {"Ataque": 15, "LvlNecessario": 3, "Sprite": "equipSprites\/iron_sword.png"}, 
+		"Espada de Prata": {"Ataque": 35, "LvlNecessario": 5, "Sprite": "equipSprites\/silver_sword.png"},
+		"Espada Preta": {"Ataque": 50, "LvlNecessario": 7, "Sprite": "equipSprites\/black_sword2.png"},
+		"Espada de Ouro": {"Ataque": 100, "LvlNecessario": 9, "Sprite": "equipSprites\/gold_sword.png"}, 
+		"Espada de Onix": {"Ataque": 150, "LvlNecessario": 11, "Sprite": "equipSprites\/swordBase2.png"},
+		"Espada de Criptonita": {"Ataque": 250, "LvlNecessario": 15, "Sprite": "equipSprites\/swordBase2.png"}
+		},
+"Capacete": {
+		"Capacete de Bronze": {"Defesa": 5, "LvlNecessario": 1, "Sprite": "equipSprites\/bronze_helm.png"}, 
+		"Capacete de Ferro": {"Defesa": 15, "LvlNecessario": 3, "Sprite": "equipSprites\/iron_helm.png"},
+		"Capacete Preto": {"Defesa": 35, "LvlNecessario": 5, "Sprite": "equipSprites\/black_helm3.png"},
+		"Capacete de Ouro": {"Defesa": 100, "LvlNecessario": 9, "Sprite": "equipSprites\/gold_helm.png"}
+}
+}

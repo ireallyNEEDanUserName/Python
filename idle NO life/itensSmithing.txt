@@ -1,0 +1,19 @@
+{
+"Espada": {
+	"Espada de Bronze": { "level": 1, "oreNecessario": "Barra de Bronze", "quantidade": 2, "tempo": 60, "exp": 10},
+	"Espada de Ferro": { "level": 5, "oreNecessario": "Barra de Ferro", "quantidade": 3, "tempo": 80, "exp": 20},
+	"Espada de Prata": { "level": 10, "oreNecessario": "Barra de Prata", "quantidade": 5, "tempo": 120, "exp": 40},
+	"Espada Preta": { "level": 12, "oreNecessario": "Barra de Prata", "quantidade": 5, "outros": "tinturaPreta", "outrosQuantidade": 2, "tempo": 140, "exp": 60},
+	"Espada de Ouro": { "level": 15, "oreNecessario": "Barra de Ouro", "quantidade": 7, "tempo": 160, "exp": 80},
+	"Espada de Onix": { "level": 25, "oreNecessario": "Barra de Onix", "quantidade": 8, "tempo": 200, "exp": 200},
+	"Espada de Criptonita": { "level": 35, "oreNecessario": "Barra de Criptonita", "quantidade": 10, "tempo": 220, "exp": 400}
+	}, 
+"Capacete": {
+	"Capacete de Bronze": { "level": 1, "oreNecessario": "Barra de Bronze", "quantidade": 2, "tempo": 60, "exp": 10},
+	"Capacete de Ferro": { "level": 5, "oreNecessario": "Barra de Ferro", "quantidade": 3, "tempo": 80, "exp": 20}, 
+	"Capacete Preto": { "level": 10, "oreNecessario": "Barra de Prata", "quantidade": 5, "outros": "tinturaPreta", "outrosQuantidade": 2, "tempo": 120, "exp": 40},
+	"Capacete de Ouro": { "level": 15, "oreNecessario": "Barra de Ouro", "quantidade": 7, "tempo": 160, "exp": 80}
+}
+}
+
+
