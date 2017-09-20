@@ -186,6 +186,7 @@ cinza            = (185, 185, 185)
 cinza_claro      = (200, 200, 200)
 cinza_escuro     = (100, 100, 100)
 
+#Comentar o jogador.Load e alterar no nome do Jogador para começar um jogo novo.
 jogador = Jogador("felipeV3")
 jogador.Load("felipeV3")
 
