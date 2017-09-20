@@ -1,0 +1,1 @@
+{"xpAtual": 8868, "xpTotal": 66090, "level": 19, "tempo": 124, "nome": "felipe"}

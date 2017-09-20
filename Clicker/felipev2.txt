@@ -1,0 +1,1 @@
+{"xpTotal": 313678806, "velocidade": 148, "ataque": 99, "level": 297, "nome": "felipev2", "tempo": 1641, "xpAtual": 248487558}
