@@ -1,0 +1,33 @@
+{
+"1": "Goblin", 
+"2": "Alien", 
+"3": "Voador", 
+"4": "Groot", 
+"5": "Jacare", 
+"6": "Demonio", 
+"7": "Caolho", 
+"8": "Harpia", 
+"9": "Mario",
+"andar": {
+	"1": 1, 
+	"2": 1, 
+	"3": 2, 
+	"4": 3, 
+	"5": 4, 
+	"6": 5,
+	"7": 2, 
+	"8": 4, 
+	"9": 10
+	},
+"sprite": {
+	"1": "mobSprites\/Goblin.png", 
+	"2": "mobSprites\/Alien.png", 
+	"3": "mobSprites\/Voador.png", 
+	"4": "mobSprites\/Groot.png", 
+	"5": "mobSprites\/Jacare.png", 
+	"6": "mobSprites\/Demonio.png", 
+	"7": "mobSprites\/Caolho.png", 
+	"8": "mobSprites\/Harpia.png", 
+	"9": "mobSprites\/Mario.png"
+}
+}
