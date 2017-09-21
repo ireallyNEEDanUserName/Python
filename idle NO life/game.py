@@ -1762,7 +1762,7 @@ pygame.init()
 
 fonte = pygame.font.Font(None, 22)
 
-jogador = Jogador("Lust", "load")
+jogador = Jogador("Lust2", "load") #Remover o load e comentar o TempoOffline() para novo jogador.
 jogador.TempoOffline()
 
 
